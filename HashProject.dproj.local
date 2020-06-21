@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.994,C:\Users\пк\Downloads\HashTable-master\Новая папка\MainForm.pas=C:\Users\пк\Downloads\HashTable-master\Хеш\MainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\пк\Downloads\HashTable-master\Новая папка\UUserDate.pas=C:\Users\пк\Downloads\HashTable-master\Хеш\UUserDate.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\пк\Downloads\HashTable-master\Новая папка\UHashTable.pas=C:\Users\пк\Downloads\HashTable-master\Хеш\UHashTable.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\пк\Downloads\HashTable-master\Новая папка\UStudent.pas=C:\Users\пк\Downloads\HashTable-master\Хеш\UStudent.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,C:\Users\пк\Downloads\HashTable-master\Новая папка\HashProject.dproj=C:\Users\пк\Downloads\HashTable-master\Хеш\HashProject.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,C:\Users\пк\Downloads\HashTable-master\Новая папка\UUserDate2.pas=C:\Users\пк\Downloads\HashTable-master\Новая папка\UUserDate.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,C:\Users\пк\Downloads\HashTable-master\Новая папка\UEntries.pas=C:\Users\пк\Downloads\HashTable-master\Хеш\UEntries.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,C:\Users\пк\Downloads\HashTable-master\Новая папка\AddStudentForm.dfm=C:\Users\пк\Downloads\HashTable-master\Хеш\AddStudentForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,C:\Users\пк\Downloads\HashTable-master\Новая папка\MainForm.dfm=C:\Users\пк\Downloads\HashTable-master\Хеш\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,C:\Users\пк\Downloads\HashTable-master\Новая папка\AddStudentForm.pas=C:\Users\пк\Downloads\HashTable-master\Хеш\AddStudentForm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
